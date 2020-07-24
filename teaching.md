@@ -1,3 +1,5 @@
+## Teaching
+
 * Spring 2020
   * No teaching
 * Fall 2019
