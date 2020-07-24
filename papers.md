@@ -12,16 +12,14 @@ Streaming Algorithms for Maximum Satisfiability [pdf]
 Hoa T. Vu
 In submission
 
-Distributed Dense Subgraph Detection and Low Outdegree Orientation [arxiv](https://arxiv.org/abs/1907.12443), **DISC 2020**
-Hsin-Hao Su and Hoa T. Vu
+Distributed Dense Subgraph Detection and Low Outdegree Orientation [arxiv](https://arxiv.org/abs/1907.12443), **DISC 2020**  
+Hsin-Hao Su and Hoa T. Vu  
 
-
-*Distributed Data Summarization in Well-Connected Networks [arxiv]*, **DISC 2019**
+Distributed Data Summarization in Well-Connected Networks [arxiv], **DISC 2019**  
 Hsin-Hao Su and Hoa T. Vu 
 
-Towards the Locality of Vizing's Theorem [pdf, arxiv], **DISC 2019**,
+Towards the Locality of Vizing's Theorem [pdf, arxiv], **DISC 2019**  
 Hsin-Hao Su and Hoa T. Vu
-Oded's choice
 
 Finding Subcube Heavy Hitters in Analytics Data Streams [pdf]
 Branislav Kveton, Muthu Muthukrishnan, Hoa T. Vu, and Yikun Xian 
