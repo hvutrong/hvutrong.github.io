@@ -5,7 +5,7 @@ My current research focuses on the design and analysis of algorithms with a focu
 
 For more details, check out my [research papers](papers.html), [CV](CV.pdf), and [Google Scholar](https://scholar.google.com/citations?user=C3qZIn8AAAAJ&hl=en). 
 
-**Brief bio**: I completed my Ph.D. in Computer Science at the [University of Massachusetts, Amherst](https://www.umass.edu/), where I was fortunate to be advised by Prof. [Andrew McGregor](https://people.cs.umass.edu/~mcgregor/).  I also spent a year as a postdoc at Boston College, working with Prof. [Hsin-Hao Su](https://sites.google.com/site/distributedhsinhao/). 
+Brief bio: I completed my Ph.D. in Computer Science at the [University of Massachusetts, Amherst](https://www.umass.edu/), where I was fortunate to be advised by Prof. [Andrew McGregor](https://people.cs.umass.edu/~mcgregor/).  I also spent a year as a postdoc at Boston College, working with Prof. [Hsin-Hao Su](https://sites.google.com/site/distributedhsinhao/). 
 
 Email: hvu2  at  sdsu.edu     
 
