@@ -9,5 +9,5 @@ For more details, check out my [research papers](papers.html), CV, and [Google S
 
 Email: hvu2  at  sdsu.edu   
 
-![A picture](profile12.jpg)
+![A picture](profile12.jpg =200x200)
 
