@@ -1,12 +1,10 @@
 theme: jekyll-theme-minimal
 title: Hoa T. Vu
-show_downloads: false
 
 defaults:
-  # _docs
+  # _posts
   - scope:
       path: "papers.html"
-      type: docs
+      type: posts
     values:
-      sidebar:
-        nav: "Papers"
+      author_profile: true
