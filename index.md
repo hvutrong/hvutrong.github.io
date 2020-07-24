@@ -18,6 +18,8 @@ Syntax highlighted code block
 - Bulleted
 - List
 
+[link](papers.html)
+
 1. Numbered
 2. List
 
@@ -25,7 +27,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-[Link to another page](./papers.html).
+.
 
 ```
 
