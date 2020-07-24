@@ -1,5 +1,15 @@
 ## Welcome to GitHub Pages
 
+I am an Assistant Professor in Computer Science at [San Diego State University](www.sdsu.edu). 
+
+My current research focuses on the design and analysis of algorithms with a focus on problems that arise in streaming and distributed settings. Some topics include graph algorithms, approximation algorithms, and sketching algorithms. 
+
+For more details, check out my research papers, CV, and Google Scholar. 
+
+**Brief bio**: I completed my Ph.D. in Computer Science at the University of Massachusetts, Amherst, where I was fortunate to be advised by Prof. Andrew McGregor.  I also spent a year as a postdoc at Boston College, working with Prof. Hsin-Hao Su. 
+
+Email: hvu2  at  sdsu.edu   
+
 [Link to another page](papers.html)
 
 You can use the [editor on GitHub](https://github.com/hoavu123/hoavu123.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
