@@ -1,28 +1,27 @@
 ## Papers 
 
--On the Locality of Approximate Nash-Williams Forest Decomposition 
+On the Locality of Approximate Nash-Williams Forest Decomposition 
 David Harris, Hsin-Hao Su, and Hoa T. Vu 
 In submission
 
--Maximum Coverage in the Data Stream Model: Parameterized and Generalized
+Maximum Coverage in the Data Stream Model: Parameterized and Generalized
 Andrew McGregor, David Tench, and Hoa T. Vu
 In submission
 
--Streaming Algorithms for Maximum Satisfiability [pdf]
+Streaming Algorithms for Maximum Satisfiability [pdf]
 Hoa T. Vu
 In submission
 
-Distributed Dense Subgraph Detection and Low Outdegree Orientation [arxiv]
+Distributed Dense Subgraph Detection and Low Outdegree Orientation [arxiv](), **DISC 2020**
 Hsin-Hao Su and Hoa T. Vu
-In the 34th Intl. Symposium on Distributed Computing (DISC 2020)
 
-Distributed Data Summarization in Well-Connected Networks [pdf, arxiv]
+
+Distributed Data Summarization in Well-Connected Networks [pdf, arxiv], **DISC 2019**
 Hsin-Hao Su and Hoa T. Vu 
-In the 33rd Intl. Symposium on Distributed Computing (DISC 2019)
 
-Towards the Locality of Vizing's Theorem [pdf, arxiv]
+Towards the Locality of Vizing's Theorem [pdf, arxiv], **DISC 2019**,
 Hsin-Hao Su and Hoa T. Vu
-In the 51st ACM Symposium on Theory of Computing (STOC 2019), Oded's choice
+Oded's choice
 
 Finding Subcube Heavy Hitters in Analytics Data Streams [pdf]
 Branislav Kveton, Muthu Muthukrishnan, Hoa T. Vu, and Yikun Xian 
